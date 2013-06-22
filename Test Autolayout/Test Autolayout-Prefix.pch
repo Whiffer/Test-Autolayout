@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Test Autolayout' target in the 'Test Autolayout' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
